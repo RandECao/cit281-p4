@@ -18,3 +18,5 @@ and functionality of the implemented solutions.
     - getAnswer(number = "")
     - getQuestionAnswer(number = "")
 - Tested code using testing() function that diplayed a console.log of return statment
+
+### [Link to Javascript Code](code/)
